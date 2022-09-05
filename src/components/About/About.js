@@ -14,7 +14,7 @@ const About = () => {
         </h1>
       )}
 
-      {role && <h2 className='about__role'>A {role}.</h2>}
+      {role && <h2 className='about__role'>And I will teach you code</h2>}
       <p className='about__desc'>{description && description}</p>
 
       <div className='about__contact center'>
