@@ -18,11 +18,11 @@ const ProjectContainer = ({ project }) => (
       </ul>
     )}
 
-    {project.link && (
+    {/* {project.link && (
       <a href={project.link} aria-label='link' className='link link--icon'>
         <YoutubeIcon />
       </a>
-    )}
+    )} */}
 
     {project.livePreview && (
       <a
@@ -30,6 +30,7 @@ const ProjectContainer = ({ project }) => (
         aria-label='live preview'
         className='link link--icon'
       >
+        <YoutubeIcon />
         <LaunchIcon />
         <img src={project.img} alt='preview of video' />
       </a>
