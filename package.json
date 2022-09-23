@@ -2,7 +2,7 @@
   "name": "rosh-teaches-code",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://roshroslin.github.io/rosh-teaches-code",
+  "homepage": "https://stirring-kulfi-98257d.netlify.app",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",

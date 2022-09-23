@@ -8,11 +8,14 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Rosh Roslin',
   role: 'I will teach you code',
-  description: '',
+  description:
+    'This is a tutorial series to help developers learn about different coding concepts in a straightforward, easy to understand manner. As a self-taught developer, many coding tutorials online offered solutions without going through the basics to understand how to solve algorithm challenges and other coding concepts ',
   resume: '',
   social: {
-    linkedin: 'https://linkedin.com/RoshRoslin',
+    linkedin: 'https://www.linkedin.com/in/roshroslin/',
     github: 'https://github.com/RoshRoslin',
+    instagram: 'https://www.instagram.com/RoshRoslin',
+    youtube: 'https://www.youtube.com/channel/UCrl_1ztDBHjOIdXnPXoFbJw',
   },
 }
 
